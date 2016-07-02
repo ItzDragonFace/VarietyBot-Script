@@ -1,13 +1,8 @@
 # BasicBot
-basicBot (custom)
+basicBot 
 A not so basic bot for plug.dj
-Slack facebook group twitter
 
-Email enquiries: bnz.mngn [at] gmail [dot] com
-
-Click here for basicBot's main repository.
-
-Using custom room settings or adding functionality is done by loading your own script loading and modifying the bot. This repository's purpose is to facilitate this. You can fork the repository and customise the example script. When you have forked the repo, bookmark the following script, but change bscBot to your own github handle.
+Using custom room settings or adding functionality is done by loading your own script loading and modifying the bot. This repository's purpose is to facilitate this. You can fork the repository and customise the example script. When you have forked the repo, bookmark the following script.
 
 javascript:(function(){$.getScript('https://rawgit.com/bscBot/custom/master/extension.js');})();
 
