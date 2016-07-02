@@ -1,6 +1,5 @@
-# BasicBot
-basicBot 
-A not so basic bot for plug.dj
+# VarietyBot
+VarietyBot 
 
 Using custom room settings or adding functionality is done by loading your own script loading and modifying the bot. This repository's purpose is to facilitate this. You can fork the repository and customise the example script. When you have forked the repo, bookmark the following script.
 
@@ -22,4 +21,4 @@ bot.getNewBlacklistedSongs(); //get a javascript object
 bot.logNewBlacklistedSongs(); //get a list
 Copyright
 
-Copyright © 2014-2016 basicBot
+Copyright © 2016-2016 VarietyBot Inc.
