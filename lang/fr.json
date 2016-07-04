@@ -63,7 +63,7 @@
     "datarestored": "Succ\u00e8s de la r\u00e9cup\u00e9ration des donn\u00e9s.",
     "greyuser": "Uniquement les Videurs et les rangs sup\u00e9rieurs peuvent lancer le bot.",
     "bouncer": "Le bot ne peut pas changer les personnes de place quand il est lanc\u00e9 par un Videur.",
-    "online": "\/me %%BOTNAME%% v%%VERSION%% en ligne!",
+    "online": "\/me %%BOTNAME%% v0.5 en ligne!",
     "welcome": "\/me Bienvenue %%NAME%%",
     "welcomeback": "\/me Bon retour, %%NAME%%",
     "songknown": "\/me @%%NAME%%, cette musique est dans l'historique.",
