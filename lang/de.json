@@ -63,7 +63,7 @@
     "datarestored": "Zuvor gespeicherte Daten erfolgreich abgerufen.",
     "greyuser": "Nur Bouncer und aufw\u00e4rts k\u00f6nnen den Bot betreiben.",
     "bouncer": "Der Bot kann keine Leute in der Warteliste verschieben, wenn er von einem Bouncer betrieben wird.",
-    "online": "\/me %%BOTNAME%% v%%VERSION%% ist online!",
+    "online": "\/me %%BOTNAME%% v0.5 ist online!",
     "welcome": "\/me Willkommen %%NAME%%",
     "welcomeback": "\/me Willkommen zur\u00fcck, %%NAME%%",
     "songknown": "\/me @%%NAME%%, dieser Song ist im DJ Verlauf.",
