@@ -63,7 +63,7 @@
     "datarestored": "Yedeklenen veriler basariyla alindi.",
     "greyuser": "Botu sadece yetkililer calistirabilir.",
     "bouncer": "Bouncer yetkisinde olanlar botu calistirabilir.",
-    "online": "\/me %%BOTNAME%% v%%VERSION%% acildi!",
+    "online": "\/me %%BOTNAME%% v0.5 acildi!",
     "welcome": "\/me Hosgeldiniz %%NAME%%",
     "welcomeback": "\/me Tekrar hosgeldin, %%NAME%%",
     "songknown": "\/me @%%NAME%%, Actiginiz sarki daha once acildi.",
