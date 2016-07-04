@@ -63,7 +63,7 @@
     "datarestored": "\u5148\u524d\u5b58\u5132\u7684\u6578\u64da\u6aa2\u7d22\u6210\u529f.",
     "greyuser": "\u53ea\u6709\u4fdd\u93e2\u6216\u4ee5\u4e0a\u968e\u7d1a\u53ef\u4ee5\u904b\u884c\u6a5f\u5668\u4eba.",
     "bouncer": "\u5982\u679c\u6a5f\u5668\u4eba\u88ab\u904b\u884c\u70ba\u4fdd\u93e2\u968e\u7d1a\u5c07\u7121\u6cd5\u79fb\u52d5\u4eba.",
-    "online": "\/me %%BOTNAME%% \u7248\u672c %%VERSION%% \u4e0a\u7dda!",
+    "online": "\/me %%BOTNAME%% \u7248\u672c 0.5 \u4e0a\u7dda!",
     "welcome": "\/me \u6b61\u8fce %%NAME%%",
     "welcomeback": "\/me \u6b61\u8fce\u56de\u4f86, %%NAME%%",
     "songknown": "\/me @%%NAME%%, \u6b64\u66f2\u5df2\u5728DJ\u6b77\u53f2\u7d00\u9304\u88e1.",
