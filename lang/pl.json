@@ -63,7 +63,7 @@
     "datarestored": "Wcze\u015bniej zapisane dane odzyskane z powodzeniem.",
     "greyuser": "Tylko bramkarze wzwy\u017c mog\u0119 uruchomi\u0107 bota.",
     "bouncer": "Bot nie mo\u017ce przenosi\u0107 ludzi w kolejce gdy jest uruchomiony jako bramkarz.",
-    "online": "\/me %%BOTNAME%% v%%VERSION%% online!",
+    "online": "\/me %%BOTNAME%% v0.5 online!",
     "welcome": "\/me Witaj %%NAME%%",
     "welcomeback": "\/me Witaj ponownie, %%NAME%%",
     "songknown": "\/me @%%NAME%%, utw\u00f3r jest w historii.",
