@@ -63,7 +63,7 @@
     "datarestored": "Prethodno sa\u010duvani podaci uspe\u0161no preuzeti.",
     "greyuser": "Samo bounceri i vi\u0161i rank mogu pokrenuti bota.",
     "bouncer": "Bot ne mo\u017ee premestati ljude ukoliko je pokrenut od strane bouncera.",
-    "online": "\/me %%BOTNAME%% %%VERSION%% online!",
+    "online": "\/me %%BOTNAME%% 0.5 online!",
     "welcome": "\/me Dobrodo\u0161ao %%NAME%%",
     "welcomeback": "\/me Dobrodo\u0161ao nazad, %%NAME%%",
     "songknown": "\/me @%%NAME%%, Ova pesma je u DJ istoriji.",
