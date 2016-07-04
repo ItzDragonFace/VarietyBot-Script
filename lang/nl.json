@@ -63,7 +63,7 @@
     "datarestored": "Opgeslagen data is succesvol opgehaald.",
     "greyuser": "Enkel bouncers en hoger kunnen een bot runnen.",
     "bouncer": "De bot kan geen mensen verplaatsen als het via een bouncer gerund wordt.",
-    "online": "\/me %%BOTNAME%% v%%VERSION%% online!",
+    "online": "\/me %%BOTNAME%% v0.5 online!",
     "welcome": "\/me Welkom %%NAME%%",
     "welcomeback": "\/me Welkom terug, %%NAME%%",
     "songknown": "\/me @%%NAME%%, Dit lied staat in de DJ geschiedenis.",
