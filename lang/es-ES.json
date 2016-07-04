@@ -63,7 +63,7 @@
     "datarestored": "Datos anteriormente guardados fueron recuperados.",
     "greyuser": "Solo guardaespaldas y mayores rangos pueden correr un bot.",
     "bouncer": "El bot no puede mover personas cuando es ejecutado por un guardaespaldas.",
-    "online": "\/me %%BOTNAME%% v%%VERSION%% en linea!",
+    "online": "\/me %%BOTNAME%% v0.5 en linea!",
     "welcome": "\/me Bienvenido %%NAME%%",
     "welcomeback": "\/me Bienvenido de vuelta, %%NAME%%",
     "songknown": "\/me @%%NAME%%, esta cancion esta en el historial de Dj.",
