@@ -99,7 +99,7 @@
       themeLink: null,
       fbLink: null,
       youtubeLink: null,
-      website: https://plug.dj/music-variety,
+      website: null,
       intervalMessages: [],
       messageInterval: 5,
       songstats: true,
