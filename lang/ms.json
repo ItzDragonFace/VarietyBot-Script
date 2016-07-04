@@ -63,7 +63,7 @@
     "datarestored": "Data yang disimpan sebelum ini telah berjaya diambil.",
     "greyuser": "Hanya bouncer dan pangkat lebih tinggi boleh menjalankan bot.",
     "bouncer": "Bot tidak boleh bergerak orang apabila ia dijalankan sebagai bouncer.",
-    "online": "\/me %%BOTNAME%% v%%VERSION%% online!",
+    "online": "\/me %%BOTNAME%% v0.5 online!",
     "welcome": "\/me Selamat Datang %%NAME%%",
     "welcomeback": "\/me Selamat Kembali, %%NAME%%",
     "songknown": "\/me @%%NAME%%, Lagu ini berada dalam Sejarah DJ.",
