@@ -47,22 +47,22 @@
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
       botName: "VarietyBot",
-      language: "english",
+      language: "English",
       chatLink: "https://rawgit.com/basicBot/source/master/lang/en.json",
       scriptLink: "https://rawgit.com/basicBot/source/master/basicBot.js",
       roomLock: false, // Requires an extension to re-load the script
       startupCap: 1, // 1-200
       startupVolume: 0, // 0-100
-      startupEmoji: false, // true or false
+      startupEmoji: true, // true or false
       autowoot: true,
       autoskip: false,
       smartSkip: true,
       cmdDeletion: true,
-      maximumAfk: 120,
+      maximumAfk: 90,
       afkRemoval: true,
       maximumDc: 60,
       bouncerPlus: true,
-      blacklistEnabled: true,
+      blacklistEnabled: false,
       lockdownEnabled: false,
       lockGuard: false,
       maximumLocktime: 10,
@@ -72,7 +72,7 @@
       voteSkipLimit: 10,
       historySkip: false,
       timeGuard: true,
-      maximumSongLength: 10,
+      maximumSongLength: 6,
       autodisable: true,
       commandCooldown: 30,
       usercommandsEnabled: true,
@@ -90,7 +90,7 @@
       afkRankCheck: "ambassador",
       motdEnabled: false,
       motdInterval: 5,
-      motd: "Temporary Message of the Day",
+      motd: "Theme - #Variety",
       filterChat: true,
       etaRestriction: false,
       welcome: true,
