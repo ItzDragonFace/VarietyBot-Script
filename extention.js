@@ -99,7 +99,7 @@
       themeLink: null,
       fbLink: null,
       youtubeLink: null,
-      website: null,
+      website: http://tris90190.gq,
       intervalMessages: [],
       messageInterval: 5,
       songstats: true,
